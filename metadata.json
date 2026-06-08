@@ -1,0 +1,6 @@
+{
+  "name": "HA Studio Agency",
+  "description": "Production-ready agency website and admin dashboard with a local relational database fallback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
